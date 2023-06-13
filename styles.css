@@ -123,6 +123,9 @@ li a{
         padding: 15px;
         font-size: 12px;
     }
+    #about-edu{
+        font-size: 10px;
+    }
     .container-edu, .container-projects, .container-skills, .container-exp{
         padding: 40px 10px;
     }
