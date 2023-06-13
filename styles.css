@@ -118,12 +118,14 @@ li a{
     #home{
         margin: 0 15px;
     }
-    #home, #about-edu, #about-projects, #about-skills, #about-exp{
+    #home, #about-projects, #about-skills, #about-exp{
         margin: 0 15px;
         padding: 15px;
         font-size: 12px;
     }
     #about-edu{
+        margin: 0 15px;
+        padding: 17px;
         font-size: 10px;
     }
     .container-edu, .container-projects, .container-skills, .container-exp{
